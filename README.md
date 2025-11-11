@@ -2,7 +2,7 @@
 
 _Owner:_ paulboby1  
 _Daily:_ 30 min sharp | _Weekly:_ Mini projects  
-_Status:_ Day 2 Completed – 10 Nov 2025
+_Status:_ Day 3 Completed – 11 Nov 2025
 
 ## Weekly Roadmap
 
@@ -18,4 +18,4 @@ _Status:_ Day 2 Completed – 10 Nov 2025
 
 ## Progress
 
-![Day 2/90](https://progress-bar.dev/2/?title=Day_2_Complete&width=400&color=00aa00)
+![Day 3/90](https://progress-bar.dev/3/?title=Day_3_Complete&width=400&color=00aa00)
