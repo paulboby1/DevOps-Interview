@@ -50,7 +50,17 @@ This preparation covers essential **DevOps Engineer** skills:
 - [Interview Prep Guide](https://github.com/bregman-arie/devops-exercises)
 - [Cloud Native Foundation](https://www.cncf.io/)
 
-KeyValue is a trusted product engineering partner for start-ups and scale-ups - developing ideas, unlocking their potential, and creating abundant value. We have ideated, conceived, strategized, and built some of the globe’s most innovative products.
+<<<<<<< HEAD
+
+### Resources
+
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Interview Prep Guide](https://github.com/bregman-arie/devops-exercises)
+- [Cloud Native Foundation](https://www.cncf.io/)
+
+=======
+
+> > > > > > > f6d4393 (Week 1 Complete: Days 4-7 (Bash Scripting, Monitoring, Security, Mini Project))
 
 We have the single-most vision of being the best product development start-up from India and to reach it, we have a single strategy: That of creating the Best of all Talent Pools and the Best of all Work Environments ever possible!!
 
