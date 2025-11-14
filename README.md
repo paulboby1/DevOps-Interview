@@ -14,7 +14,10 @@ _Status:_ Week 1 Completed – 12 Nov 2025
   - Day 5: System monitoring & performance
   - Day 6: Security & networking concepts
   - Day 7: Mini Project - Health monitoring dashboard
-- Week 2: Git + GitOps (GitHub Actions, Bitbucket Pipelines)
+- **Week 2: Git + GitOps + AWS Fundamentals**
+  - Day 8: AWS Fundamentals for DevOps
+  - Day 9: Launching EC2 instances
+  - Day 10: S3 buckets and permissions
 - Week 3: Docker (Containerization)
 - Week 4: Kubernetes (Container Orchestration)
 - Week 5: Jenkins (CI/CD)
